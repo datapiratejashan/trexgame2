@@ -1,1 +1,1 @@
-# trexgame2
+INFINITE RUNNER GAME
